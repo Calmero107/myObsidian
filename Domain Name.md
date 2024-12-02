@@ -1,1 +1,0 @@
-*A human-readable name that is used to identify a website, such as google.com.*

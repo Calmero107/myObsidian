@@ -1,119 +1,192 @@
 {
   "main": {
-    "id": "5fbeff59303d7688",
+    "id": "11ca72f889d0edb5",
     "type": "split",
     "children": [
       {
-        "id": "35fdc16a4395f9f4",
+        "id": "b0b3d4386da90953",
         "type": "tabs",
         "children": [
           {
-            "id": "844f559fca1699b8",
+            "id": "8ecd02c5568301e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A network.md",
+                "file": "Interview Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A network"
+              "title": "Interview Note"
             }
           },
           {
-            "id": "72cb536c7de69008",
+            "id": "ed83a256833ce8f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend"
+              "title": "Java"
             }
           },
           {
-            "id": "c8cfbeb74353ae58",
+            "id": "0b9150250c6343b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "Java SE, Java EE and Java ME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Java SE, Java EE and Java ME"
             }
           },
           {
-            "id": "076935c5adb8228b",
+            "id": "3fcd0dac643bb0ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Java"
             }
           },
           {
-            "id": "cc7c9ded9c0f4174",
+            "id": "2ca7a50d964b7f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "Bytecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Bytecode"
             }
           },
           {
-            "id": "2d5b86a4576f2a25",
+            "id": "48ad09dfcb71fcc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internet"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "2681a29d4ff77838",
+            "id": "2c700329c3266342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Java"
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "7200feaba5ff3999",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "03939f7fde22c359",
+            "id": "16128c95a3bef3c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "6252073f7c0ff5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "66326edacf31e78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "4e78de77bf379759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forms of comments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forms of comments"
+            }
+          },
+          {
+            "id": "6f8c6a1dbcc41e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "18f5c99f96fa6cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "25914bc410af1caa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -122,21 +195,22 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c932858e4a0fc8b",
+    "id": "8817c7714afe6981",
     "type": "split",
     "children": [
       {
-        "id": "3633f70f4d785702",
+        "id": "044a1ed8987a6c89",
         "type": "tabs",
         "children": [
           {
-            "id": "40745a3254ed52ad",
+            "id": "8729f1c44ff7a9f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -148,7 +222,7 @@
             }
           },
           {
-            "id": "5bd249247ebfce8c",
+            "id": "697bcfac4effcb96",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -165,7 +239,7 @@
             }
           },
           {
-            "id": "4148060654c77387",
+            "id": "662f838fa3b63a26",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -181,20 +255,19 @@
     "width": 300
   },
   "right": {
-    "id": "06fa4b7ab0bea095",
+    "id": "03548bccb37c2314",
     "type": "split",
     "children": [
       {
-        "id": "3f7e7d526a5987d2",
+        "id": "74e08f7f58997b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ed92bf13232f44",
+            "id": "a44c376ef368f43c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,25 +277,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b6bb147f331d43e3",
+            "id": "69d8886f0f2d4783",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9d34bb0c93c5231d",
+            "id": "5753e008476d02c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -235,23 +307,20 @@
             }
           },
           {
-            "id": "ed280b1b97c958cc",
+            "id": "cfcd4451aad26054",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,22 +332,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2681a29d4ff77838",
+  "active": "25914bc410af1caa",
   "lastOpenFiles": [
-    "SSL-TLS.md",
-    "HTTPS.md",
-    "TCP.md",
-    "Internet.md",
-    "IP.md",
-    "Untitled.md",
-    "UDP.md",
-    "IP Address.md",
-    "HTTP.md",
-    "DNS.md",
-    "Domain Name.md",
-    "Router.md",
-    "Packet.md",
-    "A network.md",
-    "Backend.md"
+    "Increment and decrement operators.md",
+    "Java.md",
+    "Identifier and a keyword.md",
+    "Pasted image 20241220142944.png",
+    "Forms of comments.md",
+    "Difference between Java and C++.md",
+    "Oracle JDK vs OpenJDK.md",
+    "Bytecode.md",
+    "The advantages of AOT?.md",
+    "Pasted image 20241220101226.png",
+    "Interview Note.md",
+    "JVM vs JDK vs JRE.md",
+    "Pasted image 20241219161423.png",
+    "Pasted image 20241219160751.png",
+    "Java SE, Java EE and Java ME.md",
+    "Pasted image 20241219155358.png",
+    "Pasted image 20241219155409.png",
+    "Pasted image 20241219155353.png",
+    "Interview-note/Project Management.md",
+    "Interview-note/System Design.md",
+    "Interview-note/Spring.md",
+    "Interview-note/Database.md",
+    "Interview-note/Design Pattern.md",
+    "Interview-note/Clean Code.md",
+    "Interview-note/Memory Leak.md",
+    "Interview-note/Multi Thread.md",
+    "Interview-note/Java data Structure.md",
+    "Interview-note/Connection Pool.md",
+    "Backend-roadmap/Backend.md",
+    "Interview-note",
+    "Backend-roadmap/A network.md",
+    "Backend-roadmap/UDP.md",
+    "Backend-roadmap",
+    "Backend-roadmap/TCP.md",
+    "Backend-roadmap/SSL-TLS.md",
+    "Untitled.canvas"
   ]
 }

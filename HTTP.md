@@ -1,2 +1,0 @@
-Giao thức truyền siêu văn bản được sử dụng để truyền dữ liệu giữa máy khách và máy chủ
-*The Hypertext Transfer Protocol is used to transfer data between a client (such as a web browser) and a server (such as a website).*
