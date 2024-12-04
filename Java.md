@@ -24,4 +24,12 @@ Do you know the [[Basic data types in Java]]?
 
 What is the difference between [[Primitive types and package types]]?
 
-Do you understand the caching mechanism of packaging type?
+Do you understand the [[Caching mechanism of packaging type]]?
+
+Do you know about [[Automatic boxing and unboxing]]? What is the principle?
+
+Why is there a risk of loss of precision when doing [[Floating-point operations]]?
+
+How should [[Data exceeding the long integer type]] be represented?
+
+What is the difference between [[Member variables and local variables]]?

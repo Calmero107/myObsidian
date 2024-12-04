@@ -1,4 +1,4 @@
-
+https://mp.weixin.qq.com/s/4haTyXUmh8m-dBQaEzwDJw
 ![[Pasted image 20241219160751.png]]
 - The Java Virtual Machine (JVM) is a virtual machine that runs Java bytecodes. The JVM has specific implementations for different systems (Windows, Linux, macOS), with the goal that using the same bytecode, they will all give the same results. Bytecodes and JVM implementations for different systems are the key to the Java language's "compile once, run anywhere" principle.
 
