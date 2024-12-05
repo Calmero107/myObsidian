@@ -33,3 +33,13 @@ Why is there a risk of loss of precision when doing [[Floating-point operations]
 How should [[Data exceeding the long integer type]] be represented?
 
 What is the difference between [[Member variables and local variables]]?
+
+What is the function of [[Static variables]]?
+
+What is the difference between [[Character constants and string constants]]?
+
+What is the [[Return value of a method]]? What types of methods are there?
+
+[[Static methods]]
+
+What are [[Variable length parameters]]?
