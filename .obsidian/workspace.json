@@ -11,10 +11,126 @@
             "id": "b58f8a965061334f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "2b35be8aa8e295de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String"
+            }
+          },
+          {
+            "id": "cde2b96c8392b6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variable and constant of type String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variable and constant of type String"
+            }
+          },
+          {
+            "id": "78a0e9cdfc776fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String intern method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String intern method"
+            }
+          },
+          {
+            "id": "2e8923801014790a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String constant pool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String constant pool"
+            }
+          },
+          {
+            "id": "142c0ce882acd0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String equals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String equals"
+            }
+          },
+          {
+            "id": "01d996dfb1feb7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use \"+\" or StringBuilder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use \"+\" or StringBuilder"
+            }
+          },
+          {
+            "id": "344cd02450580eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String immutable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String immutable"
+            }
+          },
+          {
+            "id": "f468327c59f1a01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String, StringBuffer and StringBuilder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String, StringBuffer and StringBuilder"
             }
           },
           {
@@ -31,7 +147,8 @@
               "title": "Interfaces and abstract classes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Variable and constant of type String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Variable and constant of type String"
             }
           },
           {
@@ -167,11 +285,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b58f8a965061334f",
+  "active": "cde2b96c8392b6ae",
   "lastOpenFiles": [
+    "Pasted image 20241223114637.png",
+    "Pasted image 20241223114634.png",
+    "Pasted image 20241223112035.png",
+    "Pasted image 20241223111611.png",
+    "Variable and constant of type String.md",
+    "sampleJava/out/production/sampleJava/SampleString.class",
+    "sampleJava/src/SampleString.java~",
+    "String.md",
+    "String intern method.md",
+    "String constant pool.md",
+    "String equals.md",
+    "Use \"+\" or StringBuilder.md",
+    "Pasted image 20241223105910.png",
+    "String immutable.md",
+    "String, StringBuffer and StringBuilder.md",
+    "Pasted image 20241223095737.png",
+    "Pasted image 20241223095733.png",
+    "Pasted image 20241223095414.png",
+    "sampleJava/out/production/sampleJava/Main.class",
+    "sampleJava/out/production/sampleJava",
+    "sampleJava/out/production",
+    "sampleJava/out",
+    "sampleJava/src/Main.java~",
+    "sampleJava/src/SampleString.java",
+    "sampleJava/sampleJava.iml",
+    "sampleJava/src/Main.java",
+    "Java.md",
     "Object-oriented basics.md",
     "Interfaces and abstract classes.md",
-    "Java.md",
     "Abstract.md",
     "Characteristics of object-oriented.md",
     "Polymorphism.md",
@@ -186,27 +330,9 @@
     "Data exceeding the long integer type.md",
     "Interview Note.md",
     "The advantages of AOT.md",
-    "Variable length parameters.md",
     "Pasted image 20241204182021.png",
-    "Static methods and instance methods.md",
     "Pasted image 20241204181332.png",
-    "Static methods.md",
-    "Can't static methods call non-static members.md",
-    "Return value of a method.md",
-    "Character constants and string constants.md",
-    "Static variables.md",
-    "Member variables and local variables.md",
-    "JVM vs JDK vs JRE.md",
     "Pasted image 20241220170315.png",
-    "Pasted image 20241220170027.png",
-    "Pasted image 20241220153141.png",
-    "Pasted image 20241220152158.png",
-    "Pasted image 20241203144928.png",
-    "Pasted image 20241220142944.png",
-    "Pasted image 20241220101226.png",
-    "Pasted image 20241219161423.png",
-    "Interview-note",
-    "Backend-roadmap",
     "Untitled.canvas"
   ]
 }
