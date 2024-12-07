@@ -32,10 +32,10 @@ public class SampleString {
 		String str4 = str1 + str2;
 		String str5 = "string";
 		String str6 = str4.intern();
-		System.out.println(str3 == str4);//false
-		System.out.println(str3 == str5);//true
-		System.out.println(str4 == str5);//false
-		System.out.println(str6 == str5);//true
+		System.out.println(str3 == str4);
+		System.out.println(str3 == str5);
+		System.out.println(str4 == str5);
+		System.out.println(str6 == str5);
 	}
 
 	private static void testInternMethod() {
@@ -58,6 +58,14 @@ public class SampleString {
 	public static void main(String[] args) {
 		addOperatorConstantsANdVariable();
 
+
+		Integer a1 = 3;
+		Integer a2 = 3;
+		System.out.println(a1 == a2);
+
+		Integer a3 = 128;
+		Integer a4 = 128;
+		System.out.println(a3 == a4);
 	}
 
 }

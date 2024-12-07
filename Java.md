@@ -2,9 +2,9 @@
 
 [[Object-oriented basics]]
 
-[[String]]
+[[Other]]
 
-[[Abnormal]]
+
 
 
 
