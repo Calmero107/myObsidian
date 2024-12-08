@@ -1,0 +1,1 @@
+Điều cần thiết đầu tiên là hiểu biết vững chắc về cách thức hoạt động của [[Internet]] cũng như các công nghệ và giao thức khác nhau làm nền tảng cho nó.

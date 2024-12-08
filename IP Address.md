@@ -1,0 +1,1 @@
+*A unique identifier assigned to each device on a network, used to route data to the correct destination*

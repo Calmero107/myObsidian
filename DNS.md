@@ -1,0 +1,1 @@
+*The Domain Name System is responsible for translating domain names into IP addresses.*

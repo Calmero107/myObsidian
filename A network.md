@@ -1,0 +1,1 @@
+A network là một nhóm máy tính hoặc các thiết bị khác được kết nối với nhau.
