@@ -30,9 +30,61 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "9e703cf542b298d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "00d2a1f45d18be3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annotation"
+            }
+          },
+          {
+            "id": "dedf8da20b0fa62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reflection"
+            }
+          },
+          {
+            "id": "b68f3ecd0dc1529e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Other"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,9 +220,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873044ee6deb891a",
+  "active": "9e703cf542b298d8",
   "lastOpenFiles": [
+    "SPI.md",
+    "Annotation.md",
     "Other.md",
+    "Pasted image 20241207181119.png",
+    "Reflection.md",
+    "Pasted image 20241207180533.png",
+    "Pasted image 20241207180521.png",
+    "Pasted image 20241207180507.png",
+    "Pasted image 20241207180453.png",
+    "Pasted image 20241207180447.png",
+    "Pasted image 20241207180440.png",
     "Java.md",
     "Use generics.md",
     "Generics.md",
@@ -187,23 +249,16 @@
     "Throwable class.md",
     "Checked Exception and Unchecked Exception.md",
     "Exception and Error.md",
-    "Pasted image 20241205141233.png",
     "Java exception.md",
     "String.md",
     "Variable and constant of type String.md",
-    "Pasted image 20241223114637.png",
-    "Pasted image 20241223114634.png",
-    "Pasted image 20241223112035.png",
-    "Pasted image 20241223111611.png",
     "sampleJava/out/production/sampleJava/SampleString.class",
     "String intern method.md",
     "String constant pool.md",
     "String equals.md",
     "Use \"+\" or StringBuilder.md",
-    "Pasted image 20241223105910.png",
     "String immutable.md",
     "String, StringBuffer and StringBuilder.md",
-    "Pasted image 20241223095737.png",
     "sampleJava/out/production/sampleJava/Main.class",
     "sampleJava/out/production/sampleJava",
     "sampleJava/out/production",
@@ -213,9 +268,6 @@
     "sampleJava/sampleJava.iml",
     "sampleJava/src/Main.java",
     "Object-oriented basics.md",
-    "Interfaces and abstract classes.md",
-    "Abstract.md",
-    "Characteristics of object-oriented.md",
     "Untitled.canvas"
   ]
 }
