@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
+                "file": "Interview Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Interview Note"
             }
           },
           {
-            "id": "873044ee6deb891a",
+            "id": "f59a598e98894f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serialization"
+            }
+          },
+          {
+            "id": "71bac1d3862556fa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -32,55 +46,87 @@
             }
           },
           {
-            "id": "9e703cf542b298d8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "00d2a1f45d18be3e",
+            "id": "1ea53bf4c00fcfca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotation.md",
+                "file": "Hessian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annotation"
+              "title": "Hessian"
             }
           },
           {
-            "id": "dedf8da20b0fa62c",
+            "id": "8d1bf627c6dc5c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflection.md",
+                "file": "ProtoStuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflection"
+              "title": "ProtoStuff"
             }
           },
           {
-            "id": "b68f3ecd0dc1529e",
+            "id": "1ee558e0d3f17058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other.md",
+                "file": "Protobuf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other"
+              "title": "Protobuf"
+            }
+          },
+          {
+            "id": "caaae17763909d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kryo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kryo"
+            }
+          },
+          {
+            "id": "cf9f1637554fb56d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDK's own serialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JDK's own serialization"
+            }
+          },
+          {
+            "id": "32e0a1de1473239e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serialization and deserialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serialization and deserialization"
             }
           }
         ],
@@ -220,54 +266,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e703cf542b298d8",
+  "active": "71bac1d3862556fa",
   "lastOpenFiles": [
-    "SPI.md",
-    "Annotation.md",
+    "Serialization protocols.md",
+    "Hessian.md",
+    "ProtoStuff.md",
+    "Protobuf.md",
+    "Kryo.md",
+    "Serialization.md",
+    "JDK's own serialization.md",
+    "Pasted image 20241224112032.png",
+    "Serialization and deserialization.md",
+    "Interview Note.md",
+    "Java.md",
+    "Pasted image 20241224111035.png",
+    "Pasted image 20241224111004.png",
+    "Pasted image 20241224110117.png",
     "Other.md",
-    "Pasted image 20241207181119.png",
+    "SPI (reading).md",
+    "Annotation.md",
     "Reflection.md",
+    "sampleJava/out/production/sampleJava/Main.class",
+    "sampleJava/out/production/sampleJava/spi/Logger.class",
+    "sampleJava/out/production/sampleJava/spi/LoggerService.class",
+    "sampleJava/out/production/sampleJava/spi",
+    "sampleJava/out/production/sampleJava/SampleString.class",
+    "sampleJava/src/Main.java~",
+    "sampleJava/src/spi/LoggerService.java~",
+    "sampleJava/src/spi/LoggerService.java",
+    "sampleJava/src/spi/Logger.java~",
+    "sampleJava/src/spi/Logger.java",
+    "Pasted image 20241224093511.png",
+    "Pasted image 20241224092545.png",
+    "Pasted image 20241224092442.png",
+    "Pasted image 20241207181119.png",
     "Pasted image 20241207180533.png",
     "Pasted image 20241207180521.png",
-    "Pasted image 20241207180507.png",
-    "Pasted image 20241207180453.png",
-    "Pasted image 20241207180447.png",
-    "Pasted image 20241207180440.png",
-    "Java.md",
     "Use generics.md",
     "Generics.md",
-    "sampleJava/src/SampleString.java~",
     "Try-with-resources.md",
     "Pay attention.md",
     "Floating-point operations.md",
     "Abnormal.md",
-    "Pasted image 20241223151834.png",
-    "Pasted image 20241223151741.png",
-    "Pasted image 20241223151729.png",
     "Finally be executed.md",
     "Try-catch-finally.md",
     "Throwable class.md",
     "Checked Exception and Unchecked Exception.md",
     "Exception and Error.md",
     "Java exception.md",
-    "String.md",
-    "Variable and constant of type String.md",
-    "sampleJava/out/production/sampleJava/SampleString.class",
-    "String intern method.md",
-    "String constant pool.md",
-    "String equals.md",
-    "Use \"+\" or StringBuilder.md",
-    "String immutable.md",
-    "String, StringBuffer and StringBuilder.md",
-    "sampleJava/out/production/sampleJava/Main.class",
-    "sampleJava/out/production/sampleJava",
-    "sampleJava/out/production",
-    "sampleJava/out",
-    "sampleJava/src/Main.java~",
-    "sampleJava/src/SampleString.java",
-    "sampleJava/sampleJava.iml",
-    "sampleJava/src/Main.java",
-    "Object-oriented basics.md",
     "Untitled.canvas"
   ]
 }
