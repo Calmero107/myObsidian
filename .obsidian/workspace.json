@@ -250,7 +250,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -266,7 +267,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71bac1d3862556fa",
+  "active": "8729f1c44ff7a9f1",
   "lastOpenFiles": [
     "Serialization protocols.md",
     "Hessian.md",
