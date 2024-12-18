@@ -22,17 +22,157 @@
             }
           },
           {
-            "id": "66bc2ea88915fc06",
+            "id": "6ee1f1f2f25f8304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database paradigm.md",
+                "file": "NoSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database paradigm"
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "a4a92d8c6ec68dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of NoSQL"
+            }
+          },
+          {
+            "id": "64c5d74be62170df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The advantages of NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The advantages of NoSQL"
+            }
+          },
+          {
+            "id": "f16e93ce9ce403e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL and NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL and NoSQL"
+            }
+          },
+          {
+            "id": "99b5b8d1c4b61fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steps in database design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steps in database design"
+            }
+          },
+          {
+            "id": "cc91c2b87ee4dbde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steps in database design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steps in database design"
+            }
+          },
+          {
+            "id": "08ce0e6527bfaf5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drop, delete and truncate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drop, delete and truncate"
+            }
+          },
+          {
+            "id": "36a6351ccb3cc216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DML statements and DDL statements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DML statements and DDL statements"
+            }
+          },
+          {
+            "id": "f92fc123636f3a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stored procedure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stored procedure"
+            }
+          },
+          {
+            "id": "236fe194fa8688b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foreign keys and cascades deprecated.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foreign keys and cascades deprecated"
+            }
+          },
+          {
+            "id": "37f382df6cbbb4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A primary key and a foreign key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A primary key and a foreign key"
             }
           },
           {
@@ -60,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database paradigm.md",
+                "file": "Types of NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Database paradigm"
+              "title": "Backlinks for Types of NoSQL"
             }
           },
           {
@@ -177,10 +317,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database paradigm.md"
+                "file": "Types of NoSQL.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Database paradigm"
+              "title": "Outline of Types of NoSQL"
             }
           }
         ],
@@ -200,10 +340,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66bc2ea88915fc06",
+  "active": "a4a92d8c6ec68dfd",
   "lastOpenFiles": [
+    "Pasted image 20241226105422.png",
+    "NoSQL.md",
+    "Types of NoSQL.md",
+    "The advantages of NoSQL.md",
+    "SQL and NoSQL.md",
+    "Pasted image 20241226104838.png",
+    "Pasted image 20241226104820.png",
     "Database.md",
+    "Steps in database design.md",
+    "Drop, delete and truncate.md",
+    "DML statements and DDL statements.md",
+    "Stored procedure.md",
+    "Foreign keys and cascades deprecated.md",
+    "A primary key and a foreign key.md",
+    "1NF.md",
+    "2NF.md",
+    "3NF.md",
     "Database paradigm.md",
+    "Pasted image 20241226095956.png",
+    "Pasted image 20241226094633.png",
+    "Pasted image 20241226094517.png",
+    "Pasted image 20241226094513.png",
     "ER diagram.md",
     "Pasted image 20241225172948.png",
     "Tuples, keys, candidate keys, primary keys, foreign keys, primary attributes, and non-primary attributes.md",
@@ -215,24 +375,9 @@
     "Database management system.md",
     "Interview Note.md",
     "Common Framework.md",
-    "Computer basic.md",
-    "IO streams.md",
-    "IO.md",
-    "Java.md",
-    "Serialization.md",
-    "Serialization protocols.md",
-    "Hessian.md",
-    "ProtoStuff.md",
-    "Protobuf.md",
-    "Kryo.md",
-    "JDK's own serialization.md",
     "Pasted image 20241224112032.png",
-    "Serialization and deserialization.md",
     "Pasted image 20241224111035.png",
     "Pasted image 20241224111004.png",
-    "Pasted image 20241224110117.png",
-    "Other.md",
-    "SPI (reading).md",
     "sampleJava/out/production/sampleJava/Main.class",
     "sampleJava/out/production/sampleJava/spi/Logger.class",
     "sampleJava/out/production/sampleJava/spi/LoggerService.class",
@@ -243,11 +388,6 @@
     "sampleJava/src/spi/LoggerService.java",
     "sampleJava/src/spi/Logger.java~",
     "sampleJava/src/spi/Logger.java",
-    "Pasted image 20241224093511.png",
-    "Pasted image 20241224092545.png",
-    "Pasted image 20241224092442.png",
-    "Pasted image 20241207181119.png",
-    "Pasted image 20241207180533.png",
     "Untitled.canvas"
   ]
 }
