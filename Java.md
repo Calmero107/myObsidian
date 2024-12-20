@@ -15,3 +15,13 @@ What [[Forms of comments]] are there?
 What is the difference between an [[Identifier and a keyword]]?
 
 [[Increment and decrement operators]]
+
+[[Shift Operators]]
+
+What is the difference between [[Continue, break and return]]?
+
+Do you know the [[Basic data types in Java]]?
+
+What is the difference between [[Primitive types and package types]]?
+
+Do you understand the caching mechanism of packaging type?
