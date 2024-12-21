@@ -1,2 +1,0 @@
-- Static methods belong to the class, and memory is allocated when the class is loaded, and can be accessed directly through the class name. Non-static members belong to instance objects, and only exist after the object is instantiated, and need to be accessed through the instance object of the class.
-- The static method already exists when the non-static members of the class do not exist. At this time, calling the non-static members that do not exist in the memory is an illegal operation.

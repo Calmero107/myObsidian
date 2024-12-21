@@ -1,8 +1,0 @@
-
-[[Encapsulation]]
-
-[[Inherit]]
-
-[[Polymorphism]]
-
-[[Abstract]]
