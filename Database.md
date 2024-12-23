@@ -18,3 +18,5 @@ What is the difference between [[Drop, delete and truncate]]?
 What are the  [[Steps in database design]]?
 
 [[NoSQL]]
+
+[[Character Set]]

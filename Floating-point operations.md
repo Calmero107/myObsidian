@@ -1,1 +1,0 @@
-http://kaito-kidd.com/2018/08/08/computer-system-float-point/
