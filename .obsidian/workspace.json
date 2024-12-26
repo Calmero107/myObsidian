@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bea6f738f19a0dd2",
+        "id": "83126bafc6905165",
         "type": "tabs",
         "children": [
           {
-            "id": "398bb566250fba14",
+            "id": "66d380d035410f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Note.md",
+                "file": "Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview Note"
+              "title": "Database"
             }
           },
           {
-            "id": "f59a598e98894f48",
+            "id": "66bc2ea88915fc06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serialization.md",
+                "file": "Database paradigm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serialization"
+              "title": "Database paradigm"
             }
           },
           {
-            "id": "71bac1d3862556fa",
+            "id": "366b5a84e2f047c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ER diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ER diagram"
+            }
+          },
+          {
+            "id": "0d6848a8f4ac60de",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,93 +58,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "1ea53bf4c00fcfca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hessian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hessian"
-            }
-          },
-          {
-            "id": "8d1bf627c6dc5c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProtoStuff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ProtoStuff"
-            }
-          },
-          {
-            "id": "1ee558e0d3f17058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protobuf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protobuf"
-            }
-          },
-          {
-            "id": "caaae17763909d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kryo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kryo"
-            }
-          },
-          {
-            "id": "cf9f1637554fb56d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDK's own serialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JDK's own serialization"
-            }
-          },
-          {
-            "id": "32e0a1de1473239e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serialization and deserialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Serialization and deserialization"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Database paradigm"
             }
           },
           {
@@ -245,9 +176,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Database paradigm.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Database paradigm"
             }
           }
         ],
@@ -267,26 +200,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8729f1c44ff7a9f1",
+  "active": "66bc2ea88915fc06",
   "lastOpenFiles": [
+    "Database.md",
+    "Database paradigm.md",
+    "ER diagram.md",
+    "Pasted image 20241225172948.png",
+    "Tuples, keys, candidate keys, primary keys, foreign keys, primary attributes, and non-primary attributes.md",
+    "Key word.md",
+    "A database, database management system, database system, database administrator.md",
+    "Database system.md",
+    "Database administrator.md",
+    "A database.md",
+    "Database management system.md",
+    "Interview Note.md",
+    "Common Framework.md",
+    "Computer basic.md",
+    "IO streams.md",
+    "IO.md",
+    "Java.md",
+    "Serialization.md",
     "Serialization protocols.md",
     "Hessian.md",
     "ProtoStuff.md",
     "Protobuf.md",
     "Kryo.md",
-    "Serialization.md",
     "JDK's own serialization.md",
     "Pasted image 20241224112032.png",
     "Serialization and deserialization.md",
-    "Interview Note.md",
-    "Java.md",
     "Pasted image 20241224111035.png",
     "Pasted image 20241224111004.png",
     "Pasted image 20241224110117.png",
     "Other.md",
     "SPI (reading).md",
-    "Annotation.md",
-    "Reflection.md",
     "sampleJava/out/production/sampleJava/Main.class",
     "sampleJava/out/production/sampleJava/spi/Logger.class",
     "sampleJava/out/production/sampleJava/spi/LoggerService.class",
@@ -302,19 +248,6 @@
     "Pasted image 20241224092442.png",
     "Pasted image 20241207181119.png",
     "Pasted image 20241207180533.png",
-    "Pasted image 20241207180521.png",
-    "Use generics.md",
-    "Generics.md",
-    "Try-with-resources.md",
-    "Pay attention.md",
-    "Floating-point operations.md",
-    "Abnormal.md",
-    "Finally be executed.md",
-    "Try-catch-finally.md",
-    "Throwable class.md",
-    "Checked Exception and Unchecked Exception.md",
-    "Exception and Error.md",
-    "Java exception.md",
     "Untitled.canvas"
   ]
 }
