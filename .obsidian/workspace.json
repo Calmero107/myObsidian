@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "83126bafc6905165",
+        "id": "4920a28d25ef01dd",
         "type": "tabs",
         "children": [
           {
-            "id": "66d380d035410f4d",
+            "id": "c1600753b1faec4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "41b2542880a71779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Serialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serialization"
+            }
+          },
+          {
+            "id": "e06d72fbc3cdfe84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "0f9dbc0e3ea97072",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,175 +64,7 @@
             }
           },
           {
-            "id": "6ee1f1f2f25f8304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoSQL"
-            }
-          },
-          {
-            "id": "a4a92d8c6ec68dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of NoSQL"
-            }
-          },
-          {
-            "id": "64c5d74be62170df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The advantages of NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The advantages of NoSQL"
-            }
-          },
-          {
-            "id": "f16e93ce9ce403e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL and NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL and NoSQL"
-            }
-          },
-          {
-            "id": "99b5b8d1c4b61fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steps in database design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steps in database design"
-            }
-          },
-          {
-            "id": "cc91c2b87ee4dbde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steps in database design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steps in database design"
-            }
-          },
-          {
-            "id": "08ce0e6527bfaf5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drop, delete and truncate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drop, delete and truncate"
-            }
-          },
-          {
-            "id": "36a6351ccb3cc216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DML statements and DDL statements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DML statements and DDL statements"
-            }
-          },
-          {
-            "id": "f92fc123636f3a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stored procedure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stored procedure"
-            }
-          },
-          {
-            "id": "236fe194fa8688b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foreign keys and cascades deprecated.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Foreign keys and cascades deprecated"
-            }
-          },
-          {
-            "id": "37f382df6cbbb4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A primary key and a foreign key.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A primary key and a foreign key"
-            }
-          },
-          {
-            "id": "366b5a84e2f047c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ER diagram.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ER diagram"
-            }
-          },
-          {
-            "id": "0d6848a8f4ac60de",
+            "id": "4f42905628b45cf1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -200,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of NoSQL.md",
+                "file": "Character Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Types of NoSQL"
+              "title": "Backlinks for Character Set"
             }
           },
           {
@@ -316,11 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Types of NoSQL.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Types of NoSQL"
+              "title": "Outline"
             }
           }
         ],
@@ -340,54 +212,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4a92d8c6ec68dfd",
+  "active": "4f42905628b45cf1",
   "lastOpenFiles": [
-    "Pasted image 20241226105422.png",
-    "NoSQL.md",
-    "Types of NoSQL.md",
-    "The advantages of NoSQL.md",
-    "SQL and NoSQL.md",
-    "Pasted image 20241226104838.png",
-    "Pasted image 20241226104820.png",
+    "Character Set.md",
     "Database.md",
-    "Steps in database design.md",
-    "Drop, delete and truncate.md",
-    "DML statements and DDL statements.md",
-    "Stored procedure.md",
-    "Foreign keys and cascades deprecated.md",
-    "A primary key and a foreign key.md",
-    "1NF.md",
-    "2NF.md",
-    "3NF.md",
-    "Database paradigm.md",
-    "Pasted image 20241226095956.png",
-    "Pasted image 20241226094633.png",
-    "Pasted image 20241226094517.png",
-    "Pasted image 20241226094513.png",
-    "ER diagram.md",
-    "Pasted image 20241225172948.png",
-    "Tuples, keys, candidate keys, primary keys, foreign keys, primary attributes, and non-primary attributes.md",
-    "Key word.md",
-    "A database, database management system, database system, database administrator.md",
-    "Database system.md",
-    "Database administrator.md",
-    "A database.md",
-    "Database management system.md",
-    "Interview Note.md",
-    "Common Framework.md",
-    "Pasted image 20241224112032.png",
-    "Pasted image 20241224111035.png",
-    "Pasted image 20241224111004.png",
+    "database/NoSQL.md",
+    "database/Types of NoSQL.md",
+    "java/Serialization.md",
+    "java/Variable length parameters.md",
+    "java/Use \"+\" or StringBuilder.md",
+    "database/The advantages of NoSQL.md",
+    "java/The characteristics of the construction method.md",
+    "java/The advantages of AOT.md",
+    "java/String.md",
+    "database/Steps in database design.md",
+    "java/Static methods.md",
+    "java/SPI (reading).md",
+    "java/Shift Operators.md",
+    "java/Serialization protocols.md",
+    "java/Serialization and deserialization.md",
+    "java/Return value of a method.md",
+    "java/Reflection.md",
+    "java/Pay attention.md",
+    "java/Abnormal.md",
+    "Java.md",
+    "java/Object-oriented basics.md",
+    "java/Characteristics of object-oriented.md",
+    "java/Polymorphism.md",
+    "resource/images/Pasted image 20241203144928.png",
+    "java/Object-oriented and process-oriented.md",
+    "resource/images",
+    "resource",
+    "database",
+    "java",
+    "resource/images/Pasted image 20241226105422.png",
+    "resource/images/Pasted image 20241226104838.png",
+    "resource/images/Pasted image 20241226104820.png",
+    "resource/images/Pasted image 20241226095956.png",
+    "resource/images/Pasted image 20241226094633.png",
+    "resource/images/Pasted image 20241226094517.png",
+    "resource/images/Pasted image 20241226094513.png",
+    "resource/images/Pasted image 20241225172948.png",
+    "resource/images/Pasted image 20241224112032.png",
     "sampleJava/out/production/sampleJava/Main.class",
     "sampleJava/out/production/sampleJava/spi/Logger.class",
     "sampleJava/out/production/sampleJava/spi/LoggerService.class",
     "sampleJava/out/production/sampleJava/spi",
     "sampleJava/out/production/sampleJava/SampleString.class",
     "sampleJava/src/Main.java~",
-    "sampleJava/src/spi/LoggerService.java~",
-    "sampleJava/src/spi/LoggerService.java",
-    "sampleJava/src/spi/Logger.java~",
-    "sampleJava/src/spi/Logger.java",
     "Untitled.canvas"
   ]
 }

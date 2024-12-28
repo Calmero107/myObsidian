@@ -1,1 +1,0 @@
-They can be shared by all instances of a class. No matter how many objects a class creates, they all share the same static variable. In other words, ==static variables will only be allocated memory once, even if multiple objects are created==, which can save memory.

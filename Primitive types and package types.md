@@ -1,9 +1,0 @@
-- **Usage** : In addition to defining some constants and local variables, we rarely use primitive types to define variables in other places such as method parameters and object properties. In addition, wrapper types can be used for generics, while primitive types cannot.
-- **Storage method** : Local variables of basic data types are stored in the local variable table in the Java virtual machine stack, and member variables of basic data types (unmodified `static`) are stored in the Java virtual machine heap. Package types belong to object types, and we know that almost all object instances exist in the heap.
-- **Space occupied** : Compared with packaging types (object types), the space occupied by basic data types is often very small.
-- **Default value** : The member variable wrapper type is not assigned a value `null`, while the basic type has a default value and is not `null`.
-- **Comparison method** : For basic data types, `==`the comparison is based on the value. For package data types, `==`the comparison is based on the memory address of the object. All value comparisons between integer package class objects use `equals()`the method.
-
-**Why do we say that almost all object instances exist in the heap?** This is because after the HotSpot virtual machine introduces JIT optimization, it will perform escape analysis on the object. If it is found that an object has not escaped outside the method, it may be possible to implement stack allocation through scalar replacement, and avoid allocating memory on the heap.
-
-⚠️ Note: **It is a common misconception that primitive data types are stored on the stack!** The storage location of primitive data types depends on their scope and declaration. If they are local variables, they are stored on the stack; if they are member variables, they are stored in the heap/method area/metaspace.
