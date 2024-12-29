@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1600753b1faec4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "41b2542880a71779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Serialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Serialization"
-            }
-          },
-          {
-            "id": "e06d72fbc3cdfe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoSQL"
-            }
-          },
-          {
             "id": "0f9dbc0e3ea97072",
             "type": "leaf",
             "state": {
@@ -67,14 +25,17 @@
             "id": "4f42905628b45cf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Interview Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Note"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,9 +151,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Database.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Database"
             }
           }
         ],
@@ -212,10 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f42905628b45cf1",
+  "active": "0f9dbc0e3ea97072",
   "lastOpenFiles": [
-    "Character Set.md",
+    "Interview Note.md",
     "Database.md",
+    "Computer basic.md",
+    "Common Framework.md",
+    "database/Character Set.md",
+    "java/Characteristics of object-oriented.md",
+    "java/Character constants and string constants.md",
     "database/NoSQL.md",
     "database/Types of NoSQL.md",
     "java/Serialization.md",
@@ -235,12 +203,7 @@
     "java/Reflection.md",
     "java/Pay attention.md",
     "java/Abnormal.md",
-    "Java.md",
-    "java/Object-oriented basics.md",
-    "java/Characteristics of object-oriented.md",
-    "java/Polymorphism.md",
     "resource/images/Pasted image 20241203144928.png",
-    "java/Object-oriented and process-oriented.md",
     "resource/images",
     "resource",
     "database",
