@@ -1,0 +1,2 @@
+
+Encapsulation means hiding the state information (that is, properties) of an object inside the object, and not allowing external objects to directly access the internal information of the object. However, some methods that can be accessed by the outside world can be provided to operate the properties.
