@@ -8,3 +8,5 @@ What are [[The characteristics of the construction method]]? Can it be overridde
 Three major [[Characteristics of object-oriented]]
 
 What do [[Interfaces and abstract classes]] have in common and what do they differ from?
+
+Do you know the difference between [[Deep copy and shallow copy]]? What is reference copy?

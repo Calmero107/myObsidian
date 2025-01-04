@@ -11,6 +11,76 @@
             "id": "b58f8a965061334f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "cec9f8af5eb6f0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object"
+            }
+          },
+          {
+            "id": "f2ceaef5c4de9018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HashCode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HashCode"
+            }
+          },
+          {
+            "id": "1057340811f317d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HashCode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HashCode"
+            }
+          },
+          {
+            "id": "4ea464f1a3e94c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "41efc82075e994b9",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -18,20 +88,21 @@
             }
           },
           {
-            "id": "cc79a2209b001e72",
+            "id": "cf59a7263b28ba85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interfaces and abstract classes.md",
+                "file": "String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces and abstract classes"
+              "title": "String"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -103,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for String"
             }
           },
           {
@@ -121,11 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from String"
             }
           },
           {
@@ -146,9 +219,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "String.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of String"
             }
           }
         ]
@@ -167,11 +242,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b58f8a965061334f",
+  "active": "cf59a7263b28ba85",
   "lastOpenFiles": [
-    "Object-oriented basics.md",
-    "Interfaces and abstract classes.md",
+    "Object.md",
     "Java.md",
+    "String.md",
+    "HashCode.md",
+    "Untitled.md",
+    "Interview Note.md",
+    "Between == and equals.md",
+    "Identifier and a keyword.md",
+    "Object class.md",
+    "Pasted image 20241222180143.png",
+    "Pasted image 20241222174456.png",
+    "Pasted image 20241222180101.png",
+    "Pasted image 20241222175913.png",
+    "Pasted image 20241222180049.png",
+    "Object-oriented basics.md",
+    "Deep copy and shallow copy.md",
+    "Pasted image 20241222173958.png",
+    "Interfaces and abstract classes.md",
+    "Test.java",
+    "test.java~",
+    "test.java",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 5.canvas",
+    "2024-12-22.md",
+    "Untitled 4.canvas",
+    "Untitled 2.canvas",
+    "Character constants and string constants.md",
+    "Return value of a method.md",
     "Abstract.md",
     "Characteristics of object-oriented.md",
     "Polymorphism.md",
@@ -183,30 +285,11 @@
     "An object entity and an object reference.md",
     "Object-oriented and process-oriented.md",
     "Basic concepts and common sense.md",
-    "Data exceeding the long integer type.md",
-    "Interview Note.md",
-    "The advantages of AOT.md",
-    "Variable length parameters.md",
     "Pasted image 20241204182021.png",
-    "Static methods and instance methods.md",
     "Pasted image 20241204181332.png",
-    "Static methods.md",
-    "Can't static methods call non-static members.md",
-    "Return value of a method.md",
-    "Character constants and string constants.md",
-    "Static variables.md",
-    "Member variables and local variables.md",
-    "JVM vs JDK vs JRE.md",
     "Pasted image 20241220170315.png",
     "Pasted image 20241220170027.png",
-    "Pasted image 20241220153141.png",
-    "Pasted image 20241220152158.png",
-    "Pasted image 20241203144928.png",
-    "Pasted image 20241220142944.png",
-    "Pasted image 20241220101226.png",
-    "Pasted image 20241219161423.png",
     "Interview-note",
-    "Backend-roadmap",
-    "Untitled.canvas"
+    "Backend-roadmap"
   ]
 }
