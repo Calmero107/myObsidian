@@ -1,0 +1,5 @@
+
+- Do not define exceptions as static variables, because this will cause the exception stack information to be messed up. Every time an exception is thrown manually, we need to manually create a new exception object to throw.
+- The exception information thrown must be meaningful.
+- It is recommended to throw more specific exceptions, such as when a string is converted to a number in an incorrect format, `NumberFormatException`rather than its parent class `IllegalArgumentException`.
+- Avoid duplicate logging: If sufficient information (including exception type, error message, and stack trace, etc.) has been recorded where the exception is caught, the same error message should not be recorded again when the exception is thrown again in the business code. Duplicate logging will swell the log file and may obscure the actual cause of the problem, making it more difficult to track and solve the problem.

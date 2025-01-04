@@ -4,105 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "95928c0958cea60d",
+        "id": "0c50dc97e7ddfab0",
         "type": "tabs",
         "children": [
           {
-            "id": "b58f8a965061334f",
+            "id": "3245600083a7f5c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
+                "file": "commonFramework/spring/Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Spring"
             }
           },
           {
-            "id": "cec9f8af5eb6f0a1",
+            "id": "336567d1f7e407e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object.md",
+                "file": "java/Use plus or StringBuilder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object"
+              "title": "Use plus or StringBuilder"
             }
           },
           {
-            "id": "f2ceaef5c4de9018",
+            "id": "180dfbabab7113f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HashCode.md",
+                "file": "Spring, Spring MVC, and Spring Boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HashCode"
-            }
-          },
-          {
-            "id": "1057340811f317d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HashCode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HashCode"
-            }
-          },
-          {
-            "id": "4ea464f1a3e94c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "41efc82075e994b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cf59a7263b28ba85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "String"
+              "title": "Spring, Spring MVC, and Spring Boot"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "use \"+\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String.md",
+                "file": "Character Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for String"
+              "title": "Backlinks for Character Set"
             }
           },
           {
@@ -193,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from String"
+              "title": "Outgoing links"
             }
           },
           {
@@ -220,13 +168,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String.md"
+                "file": "java/Use plus or StringBuilder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of String"
+              "title": "Outline of Use plus or StringBuilder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -242,54 +191,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf59a7263b28ba85",
+  "active": "336567d1f7e407e0",
   "lastOpenFiles": [
-    "Object.md",
-    "Java.md",
-    "String.md",
-    "HashCode.md",
-    "Untitled.md",
+    "Spring IoC.md",
+    "commonFramework/spring/Spring.md",
+    "Spring, Spring MVC, and Spring Boot.md",
+    "commonFramework/spring/Modules.md",
+    "commonFramework/spring/Spring Test.md",
+    "commonFramework/spring/AOP.md",
+    "commonFramework/spring/Spring Web.md",
+    "commonFramework/spring/Messaging.md",
+    "Data Access/Data Access, Integration.md",
+    "commonFramework/spring/Core Container.md",
+    "commonFramework/spring",
+    "commonFramework",
+    "Data Access",
+    "Pasted image 20250103150533.png",
+    "Pasted image 20250103115031.png",
+    "Pasted image 20250103115011.png",
+    "Pasted image 20250103115000.png",
+    "commonFramework/spring/Spring Framework.md",
+    "Common Framework.md",
     "Interview Note.md",
-    "Between == and equals.md",
-    "Identifier and a keyword.md",
-    "Object class.md",
-    "Pasted image 20241222180143.png",
-    "Pasted image 20241222174456.png",
-    "Pasted image 20241222180101.png",
-    "Pasted image 20241222175913.png",
-    "Pasted image 20241222180049.png",
-    "Object-oriented basics.md",
-    "Deep copy and shallow copy.md",
-    "Pasted image 20241222173958.png",
-    "Interfaces and abstract classes.md",
-    "Test.java",
-    "test.java~",
-    "test.java",
-    "Untitled 3.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 5.canvas",
-    "2024-12-22.md",
-    "Untitled 4.canvas",
-    "Untitled 2.canvas",
-    "Character constants and string constants.md",
-    "Return value of a method.md",
-    "Abstract.md",
-    "Characteristics of object-oriented.md",
-    "Polymorphism.md",
-    "only be determined during program execution..md",
-    "Inherit.md",
-    "Encapsulation.md",
-    "The characteristics of the construction method.md",
-    "Create an object.md",
-    "An object entity and an object reference.md",
-    "Object-oriented and process-oriented.md",
-    "Basic concepts and common sense.md",
-    "Pasted image 20241204182021.png",
-    "Pasted image 20241204181332.png",
-    "Pasted image 20241220170315.png",
-    "Pasted image 20241220170027.png",
-    "Interview-note",
-    "Backend-roadmap"
+    "Database.md",
+    "Computer basic.md",
+    "database/Character Set.md",
+    "java/Characteristics of object-oriented.md",
+    "java/Character constants and string constants.md",
+    "database/NoSQL.md",
+    "database/Types of NoSQL.md",
+    "java/Serialization.md",
+    "java/Variable length parameters.md",
+    "java/Use plus or StringBuilder.md",
+    "database/The advantages of NoSQL.md",
+    "java/The characteristics of the construction method.md",
+    "java/The advantages of AOT.md",
+    "resource/images/Pasted image 20241203144928.png",
+    "resource/images",
+    "resource",
+    "database",
+    "java",
+    "resource/images/Pasted image 20241226105422.png",
+    "resource/images/Pasted image 20241226104838.png",
+    "resource/images/Pasted image 20241226104820.png",
+    "resource/images/Pasted image 20241226095956.png",
+    "resource/images/Pasted image 20241226094633.png",
+    "sampleJava/out/production/sampleJava/Main.class",
+    "sampleJava/out/production/sampleJava/spi/Logger.class",
+    "sampleJava/out/production/sampleJava/spi/LoggerService.class",
+    "Untitled.canvas"
   ]
 }
