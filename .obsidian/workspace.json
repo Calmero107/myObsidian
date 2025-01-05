@@ -13,44 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commonFramework/spring/Spring.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "Java"
             }
           },
           {
-            "id": "336567d1f7e407e0",
+            "id": "97871bc5834a24af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Use plus or StringBuilder.md",
+                "file": "Spring IoC.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use plus or StringBuilder"
+              "title": "Spring IoC"
             }
           },
           {
-            "id": "180dfbabab7113f3",
+            "id": "35cca5f3dec72ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring, Spring MVC, and Spring Boot.md",
+                "file": "The ways to inject beans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring, Spring MVC, and Spring Boot"
+              "title": "The ways to inject beans"
+            }
+          },
+          {
+            "id": "c319631a631b74a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autowired annotation and Resource annotation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autowired annotation and Resource annotation"
+            }
+          },
+          {
+            "id": "a5ff0260b6f74d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotations for injecting beans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annotations for injecting beans"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Use plus or StringBuilder.md"
+                "file": "The ways to inject beans.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Use plus or StringBuilder"
+              "title": "Outline of The ways to inject beans"
             }
           }
         ],
@@ -191,51 +219,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "336567d1f7e407e0",
+  "active": "35cca5f3dec72ac7",
   "lastOpenFiles": [
     "Spring IoC.md",
+    "The ways to inject beans.md",
+    "Autowired annotation and Resource annotation.md",
+    "Annotations for injecting beans.md",
+    "Pasted image 20250106171538.png",
+    "Component annotation and Bean annotation.md",
+    "Annotations to declare a class as a Bean.md",
+    "Spring Beans.md",
+    "IoC.md",
+    "Java.md",
+    "Pasted image 20250106170815.png",
+    "Pasted image 20250106165408.png",
+    "Pasted image 20250106153323.png",
+    "Pasted image 20250106153303.png",
     "commonFramework/spring/Spring.md",
     "Spring, Spring MVC, and Spring Boot.md",
+    "commonFramework/spring/Spring Framework.md",
+    "Common Framework.md",
+    "Pasted image 20241222173958.png",
+    "java/Interfaces and abstract classes.md",
+    "String.md",
+    "Pasted image 20241222180143.png",
+    "Pasted image 20241222180101.png",
+    "Pasted image 20241222174456.png",
+    "Object.md",
+    "Object class.md",
+    "Interfaces and abstract classes.md",
+    "HashCode.md",
+    "Deep copy and shallow copy.md",
+    "Between == and equals.md",
+    "java/Use plus or StringBuilder.md",
     "commonFramework/spring/Modules.md",
     "commonFramework/spring/Spring Test.md",
     "commonFramework/spring/AOP.md",
     "commonFramework/spring/Spring Web.md",
-    "commonFramework/spring/Messaging.md",
-    "Data Access/Data Access, Integration.md",
-    "commonFramework/spring/Core Container.md",
     "commonFramework/spring",
     "commonFramework",
     "Data Access",
     "Pasted image 20250103150533.png",
-    "Pasted image 20250103115031.png",
-    "Pasted image 20250103115011.png",
-    "Pasted image 20250103115000.png",
-    "commonFramework/spring/Spring Framework.md",
-    "Common Framework.md",
-    "Interview Note.md",
-    "Database.md",
-    "Computer basic.md",
-    "database/Character Set.md",
-    "java/Characteristics of object-oriented.md",
-    "java/Character constants and string constants.md",
-    "database/NoSQL.md",
-    "database/Types of NoSQL.md",
-    "java/Serialization.md",
-    "java/Variable length parameters.md",
-    "java/Use plus or StringBuilder.md",
-    "database/The advantages of NoSQL.md",
-    "java/The characteristics of the construction method.md",
-    "java/The advantages of AOT.md",
-    "resource/images/Pasted image 20241203144928.png",
     "resource/images",
     "resource",
     "database",
     "java",
-    "resource/images/Pasted image 20241226105422.png",
-    "resource/images/Pasted image 20241226104838.png",
-    "resource/images/Pasted image 20241226104820.png",
-    "resource/images/Pasted image 20241226095956.png",
-    "resource/images/Pasted image 20241226094633.png",
     "sampleJava/out/production/sampleJava/Main.class",
     "sampleJava/out/production/sampleJava/spi/Logger.class",
     "sampleJava/out/production/sampleJava/spi/LoggerService.class",
