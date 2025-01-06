@@ -4,6 +4,10 @@
 - **Control** : refers to the power to create (instantiate, manage) objects
 - **Inversion** : Control is handed over to the external environment (Spring framework, IoC container)
 
+[[What problem does IoC solve]]?
+
+Is there a [[Difference between IoC and DI]]?
+
 The ==interdependencies between objects are managed by the IoC container==, which then completes the object injection. This greatly simplifies application development and frees applications from complex dependencies. The IoC container is like a factory. When we need to create an object, we ==only need to configure the configuration file/annotation== without having to consider how the object is created.
 
 In an actual project, a Service class may depend on many other classes. If we need to instantiate this Service, you may have to figure out the constructors of all the underlying classes of this Service every time, which may drive people crazy. If you use IoC, you only need to configure it and then reference it where needed, which greatly increases the maintainability of the project and reduces the difficulty of development.

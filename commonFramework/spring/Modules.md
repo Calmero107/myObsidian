@@ -1,7 +1,7 @@
 
 The dependencies of each Spring module are as follows:
 [[Core Container]]
-[[AOP]]
+[[AOP module]]
 [[Data Access, Integration]]
 [[Spring Web]]
 [[Messaging]]
