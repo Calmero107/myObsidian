@@ -12,3 +12,11 @@ What are the [[Annotations for injecting beans]]?
 What is the difference between @Autowired and @Resource ([[Autowired annotation and Resource annotation]])?
 
 What are [[The ways to inject beans]]?
+
+[[Constructor injection or Setter injection]]?
+
+What are the [[Scopes of beans]]?
+
+[[Are beans thread-safe]]?
+
+Do you know the [[Life cycle of Bean]]?

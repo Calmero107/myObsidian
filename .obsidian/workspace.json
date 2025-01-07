@@ -4,82 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "0c50dc97e7ddfab0",
+        "id": "6ac22b92b2703eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "3245600083a7f5c5",
+            "id": "4cdde5b01f4855d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
+                "file": "computerBasic/Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Network"
             }
           },
           {
-            "id": "97871bc5834a24af",
+            "id": "15437d9637262d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring IoC.md",
+                "file": "Network layer model.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring IoC"
+              "title": "Network layer model"
             }
           },
           {
-            "id": "35cca5f3dec72ac7",
+            "id": "99cc0ef5d02e1c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The ways to inject beans.md",
+                "file": "TCP IP four-layer model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The ways to inject beans"
+              "title": "TCP IP four-layer model"
             }
           },
           {
-            "id": "c319631a631b74a7",
+            "id": "d366774f388dda0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autowired annotation and Resource annotation.md",
+                "file": "java/Serialization and deserialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autowired annotation and Resource annotation"
+              "title": "Serialization and deserialization"
             }
           },
           {
-            "id": "a5ff0260b6f74d18",
+            "id": "d729848eb708d771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotations for injecting beans.md",
+                "file": "TCP IP four-layer model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annotations for injecting beans"
+              "title": "TCP IP four-layer model"
+            }
+          },
+          {
+            "id": "f02e9d0dd81e25a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI seven-layer model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI seven-layer model"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "use \"+\"",
+                "query": "osi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +144,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The ways to inject beans.md"
+                "file": "java/Serialization and deserialization.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The ways to inject beans"
+              "title": "Outline of Serialization and deserialization"
             }
           }
         ],
@@ -219,54 +233,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35cca5f3dec72ac7",
+  "active": "d366774f388dda0f",
   "lastOpenFiles": [
-    "Spring IoC.md",
-    "The ways to inject beans.md",
-    "Autowired annotation and Resource annotation.md",
-    "Annotations for injecting beans.md",
-    "Pasted image 20250106171538.png",
-    "Component annotation and Bean annotation.md",
-    "Annotations to declare a class as a Bean.md",
-    "Spring Beans.md",
-    "IoC.md",
-    "Java.md",
-    "Pasted image 20250106170815.png",
-    "Pasted image 20250106165408.png",
-    "Pasted image 20250106153323.png",
-    "Pasted image 20250106153303.png",
-    "commonFramework/spring/Spring.md",
-    "Spring, Spring MVC, and Spring Boot.md",
-    "commonFramework/spring/Spring Framework.md",
-    "Common Framework.md",
-    "Pasted image 20241222173958.png",
-    "java/Interfaces and abstract classes.md",
-    "String.md",
-    "Pasted image 20241222180143.png",
-    "Pasted image 20241222180101.png",
-    "Pasted image 20241222174456.png",
+    "TCP IP four-layer model.md",
+    "java/Serialization and deserialization.md",
+    "OSI seven-layer model.md",
+    "Network layer model.md",
+    "TCP/IP four-layer model.md",
+    "TCP",
+    "computerBasic/Network.md",
+    "Pasted image 20250107174021.png",
     "Object.md",
-    "Object class.md",
-    "Interfaces and abstract classes.md",
-    "HashCode.md",
-    "Deep copy and shallow copy.md",
-    "Between == and equals.md",
-    "java/Use plus or StringBuilder.md",
+    "Java.md",
+    "java/String.md",
+    "String.md",
+    "Computer basic.md",
+    "java/String, StringBuffer and StringBuilder.md",
     "commonFramework/spring/Modules.md",
-    "commonFramework/spring/Spring Test.md",
-    "commonFramework/spring/AOP.md",
-    "commonFramework/spring/Spring Web.md",
+    "commonFramework/spring/Data Access, Integration.md",
+    "commonFramework/spring/Core components of Spring MVC.md",
+    "computerBasic",
+    "commonFramework/spring/Spring's Circular Dependencies.md",
+    "resource/images/Pasted image 20250107164724.png",
+    "database/ER diagram.md",
+    "resource/images/Pasted image 20250107170357.png",
+    "commonFramework/spring/Spring.md",
+    "commonFramework/spring/Spring Security.md",
+    "commonFramework/spring/Spring Data JPA.md",
+    "commonFramework/spring/Spring Transactions.md",
+    "How to solve it.md",
+    "Design patterns are used in Spring framework.md",
+    "commonFramework/spring/Spring MVC.md",
+    "How to unify exception handling.md",
+    "resource/images/Pasted image 20250107165953.png",
+    "How SpringMVC works.md",
+    "resource/images/Pasted image 20250107165722.png",
+    "resource/images/Pasted image 20250107165307.png",
+    "resource/images/Pasted image 20250107165053.png",
+    "resource/images/Pasted image 20250107164936.png",
+    "resource/images/Pasted image 20250107164302.png",
+    "resource/images/Pasted image 20250107162622.png",
     "commonFramework/spring",
     "commonFramework",
     "Data Access",
-    "Pasted image 20250103150533.png",
     "resource/images",
     "resource",
     "database",
     "java",
     "sampleJava/out/production/sampleJava/Main.class",
-    "sampleJava/out/production/sampleJava/spi/Logger.class",
-    "sampleJava/out/production/sampleJava/spi/LoggerService.class",
     "Untitled.canvas"
   ]
 }
