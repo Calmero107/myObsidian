@@ -1,0 +1,6 @@
+
+**Each layer is independent of each other** : Each layer is independent of each other. Each layer does not need to care about how other layers are implemented. It only needs to know how to call the functions provided by the lower layer (which can be simply understood as interface calls) **. This is the same as the layering of the system during development.**
+
+**Improved flexibility and replaceability** : Each layer can be implemented using the most suitable technology. You only need to ensure that the functions you provide and the rules of the exposed interfaces remain unchanged. In addition, each layer can be modified or replaced as needed without affecting the structure of the entire network. **This is consistent with the principles of high cohesion and low coupling that we usually require when developing systems.**
+
+**Breaking down big problems into small ones** : Layering can break down complex network problems into many smaller problems with clear and simple boundaries to handle and solve. This makes complex computer network systems easier to design, implement and standardize. **This corresponds to the fact that when we develop, we usually break down system functions and then break down complex problems into smaller problems that are easier to understand. These smaller problems have better boundary (goal and interface) definitions.**

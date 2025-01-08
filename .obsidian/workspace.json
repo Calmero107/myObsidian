@@ -8,87 +8,271 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cdde5b01f4855d9",
+            "id": "f61f6b5c10f79d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computerBasic/Network.md",
+                "file": "DNS.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "DNS"
             }
           },
           {
-            "id": "15437d9637262d48",
+            "id": "0aa1cf679356ec8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network layer model.md",
+                "file": "Common protocols in the application layer.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network layer model"
+              "title": "Common protocols in the application layer"
             }
           },
           {
-            "id": "99cc0ef5d02e1c00",
+            "id": "213294b17a533ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP IP four-layer model.md",
+                "file": "HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP IP four-layer model"
+              "title": "HTTP"
             }
           },
           {
-            "id": "d366774f388dda0f",
+            "id": "7c0d6c6e12e91afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Serialization and deserialization.md",
+                "file": "Difference between GET and POST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serialization and deserialization"
+              "title": "Difference between GET and POST"
             }
           },
           {
-            "id": "d729848eb708d771",
+            "id": "f422b62938df0281",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP IP four-layer model.md",
+                "file": "Difference between Cookie and Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP IP four-layer model"
+              "title": "Difference between Cookie and Session"
             }
           },
           {
-            "id": "f02e9d0dd81e25a2",
+            "id": "7d55f564e636cf03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI seven-layer model.md",
+                "file": "Difference between URI and URL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI seven-layer model"
+              "title": "Difference between URI and URL"
+            }
+          },
+          {
+            "id": "bdb3c812a565eadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to save user state.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to save user state"
+            }
+          },
+          {
+            "id": "3624e03f7c83e987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between HTTP 2.0 and HTTP 3.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between HTTP 2.0 and HTTP 3.0"
+            }
+          },
+          {
+            "id": "75cde1eeaa648bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between HTTP 1.1 and HTTP 2.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between HTTP 1.1 and HTTP 2.0"
+            }
+          },
+          {
+            "id": "f073649d0494e009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between HTTP 1.0 and HTTP 1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between HTTP 1.0 and HTTP 1.1"
+            }
+          },
+          {
+            "id": "683a1e66156aba72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between HTTP and HTTPS(important).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between HTTP and HTTPS(important)"
+            }
+          },
+          {
+            "id": "c4a10ffd52df9749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between HTTP and HTTPS(important).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between HTTP and HTTPS(important)"
+            }
+          },
+          {
+            "id": "9025b0174f8955ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTPS protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTPS protocol"
+            }
+          },
+          {
+            "id": "aef923d054f01649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The core of HTTPS is SSL TLS protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The core of HTTPS is SSL TLS protocol"
+            }
+          },
+          {
+            "id": "65acd1d798ac318d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How SSL TLS works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How SSL TLS works"
+            }
+          },
+          {
+            "id": "c8713199a40641e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference between SSL and TLS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Difference between SSL and TLS"
+            }
+          },
+          {
+            "id": "eef8c4fec44bf1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Protocol"
+            }
+          },
+          {
+            "id": "3999766e7ed40cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common fields in HTTP Header.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common fields in HTTP Header"
+            }
+          },
+          {
+            "id": "0a0fae397ef8569a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP status codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP status codes"
             }
           }
         ],
@@ -144,8 +328,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,10 +393,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Serialization and deserialization.md"
+                "file": "Difference between GET and POST.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Serialization and deserialization"
+              "title": "Outline of Difference between GET and POST"
             }
           }
         ],
@@ -233,46 +416,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d366774f388dda0f",
+  "active": "7c0d6c6e12e91afa",
   "lastOpenFiles": [
+    "HTTP.md",
+    "Difference between GET and POST.md",
+    "Difference between Cookie and Session.md",
+    "Difference between URI and URL.md",
+    "How to save user state.md",
+    "Difference between HTTP 2.0 and HTTP 3.0.md",
+    "Difference between HTTP 1.1 and HTTP 2.0.md",
+    "Difference between HTTP 1.0 and HTTP 1.1.md",
+    "Difference between HTTP and HTTPS(important).md",
+    "HTTPS protocol.md",
+    "The core of HTTPS is SSL TLS protocol.md",
+    "How SSL TLS works.md",
+    "Pasted image 20250108163521.png",
+    "Pasted image 20250108162621.png",
+    "Difference between SSL and TLS.md",
+    "HTTP Protocol.md",
+    "Common protocols in the application layer.md",
+    "Application Layer.md",
+    "Common fields in HTTP Header.md",
+    "Pasted image 20250108161311.png",
+    "Pasted image 20250108161252.png",
+    "Pasted image 20250108161231.png",
+    "Pasted image 20250108161207.png",
+    "HTTP status codes.md",
+    "HTTPS.md",
     "TCP IP four-layer model.md",
-    "java/Serialization and deserialization.md",
-    "OSI seven-layer model.md",
     "Network layer model.md",
-    "TCP/IP four-layer model.md",
-    "TCP",
     "computerBasic/Network.md",
-    "Pasted image 20250107174021.png",
-    "Object.md",
-    "Java.md",
-    "java/String.md",
-    "String.md",
-    "Computer basic.md",
-    "java/String, StringBuffer and StringBuilder.md",
-    "commonFramework/spring/Modules.md",
-    "commonFramework/spring/Data Access, Integration.md",
-    "commonFramework/spring/Core components of Spring MVC.md",
+    "DNS.md",
+    "What happens from entering the URL to the page display(very important).md",
+    "OSI seven-layer model.md",
+    "Common network protocols.md",
+    "Pasted image 20250108151814.png",
+    "Pasted image 20250108142621.png",
+    "Pasted image 20250108142330.png",
+    "Pasted image 20250108115335.png",
+    "TCP",
     "computerBasic",
-    "commonFramework/spring/Spring's Circular Dependencies.md",
-    "resource/images/Pasted image 20250107164724.png",
-    "database/ER diagram.md",
-    "resource/images/Pasted image 20250107170357.png",
-    "commonFramework/spring/Spring.md",
-    "commonFramework/spring/Spring Security.md",
-    "commonFramework/spring/Spring Data JPA.md",
-    "commonFramework/spring/Spring Transactions.md",
-    "How to solve it.md",
-    "Design patterns are used in Spring framework.md",
-    "commonFramework/spring/Spring MVC.md",
-    "How to unify exception handling.md",
-    "resource/images/Pasted image 20250107165953.png",
-    "How SpringMVC works.md",
-    "resource/images/Pasted image 20250107165722.png",
-    "resource/images/Pasted image 20250107165307.png",
-    "resource/images/Pasted image 20250107165053.png",
-    "resource/images/Pasted image 20250107164936.png",
-    "resource/images/Pasted image 20250107164302.png",
-    "resource/images/Pasted image 20250107162622.png",
     "commonFramework/spring",
     "commonFramework",
     "Data Access",
