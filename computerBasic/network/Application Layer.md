@@ -8,3 +8,7 @@ What are the [[Common protocols in the application layer]]?
 [[DNS]]
 
 [[HTTP]]
+
+[[WebSocket]]
+
+[[PING]]
