@@ -1,0 +1,9 @@
+
+DNS servers can be divided into the following levels from bottom to top (all DNS servers belong to one of the following four categories):
+- Root DNS server. The root DNS server provides the IP address of the TLD server. There are ==only 13 groups of root servers in the world==, and there is still no root server in my country.
+- Top-level domain DNS server (TLD server). Top-level domain refers to the suffix of the domain name, such as `com`,, and , etc. Countries also have their own top-level domains, such as , and . `org`TLD servers provide the IP address of the authoritative DNS server.`net``edu``uk``fr``ca`
+- Authoritative DNS servers. Every organization with publicly accessible hosts on the Internet must provide publicly accessible DNS records that map the names of those hosts to IP addresses.
+- Local DNS server. Each ISP (Internet Service Provider) has its own local DNS server. When a host makes a DNS request, the request is sent to the local DNS server, which acts as a proxy and forwards the request into the DNS hierarchy. Strictly speaking, it does not belong to the DNS hierarchy.
+
+
+There are not only 13 root servers in the world. This is a common misunderstanding among many people, and many articles on the Internet also write this. In fact, there are now far more root servers than this number. Initially, 13 IP addresses were indeed assigned to the DNS root servers, and each IP address corresponded to a different root DNS server. However, due to the rapid development and growth of the Internet, this original architecture has become less suitable for current needs. In order to improve the reliability, security and performance of DNS, there are currently multiple servers for each of the 13 IP addresses. As of the end of 2023, the sum of all root servers has reached more than 1,700, and will continue to increase in the future.
