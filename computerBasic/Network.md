@@ -4,5 +4,3 @@
 
 [[Network layer model]]
 
-[[Common network protocols]]
-
