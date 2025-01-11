@@ -1,0 +1,2 @@
+
+`ArrayList`You ==can store any type of object in , including `null`values==. However, it is not recommended to add values `ArrayList`​​to , as the values ​​are meaningless and will make the code difficult to maintain. For example, forgetting to do null check will result in a null pointer exception.`null``null`
