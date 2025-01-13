@@ -1,0 +1,2 @@
+
+`RandomAccess`is a marker interface used to indicate that the class implementing this interface supports random access (i.e., elements can be quickly accessed through indexes). Since `LinkedList`the underlying data structure is a linked list, ==the memory address is not continuous and can only be located through pointers==, which does not support random and fast access, the interface cannot be implemented `RandomAccess`.
