@@ -4,13 +4,26 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ArrayListAndArray {
+
+	private final int id;
+	private final String code;
+	private final String domain;
+
+	public ArrayListAndArray(int id, String code, String domain) {
+		this.id = id;
+		this.code = code;
+		this.domain = domain;
+	}
+
+	public static ArrayListAndArray of(int id) {
+		return new ArrayListAndArray(id, null, null);
+	}
+
 	public static void main(String[] args) {
 //		array();
 
-		Integer a = 128;
-		Integer b = 128;
-
-		System.out.println(a == b);
+		Integer i = null;
+		System.out.println(i > 0);
 	}
 
 	private static void array() {
