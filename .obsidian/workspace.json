@@ -8,101 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b37b9bd0ea1096f3",
+            "id": "c5bce9d58e71f98a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database.md",
+                "file": "MySQL Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database"
+              "title": "MySQL Index"
             }
           },
           {
-            "id": "f946cca4eae36c2b",
+            "id": "755211b6499587d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational database.md",
+                "file": "Selection of underlying index data structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relational database"
+              "title": "Selection of underlying index data structure"
             }
           },
           {
-            "id": "5debe44a54470494",
+            "id": "6f7b423fdff6fefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL.md",
+                "file": "Binary Search Tree (BST).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL"
+              "title": "Binary Search Tree (BST)"
             }
           },
           {
-            "id": "37ba97b481c67db8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "90f6dddd9baa22fe",
+            "id": "9a41286689fa7625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is MySQL.md",
+                "file": "B-Tree and B plus Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is MySQL"
+              "title": "B-Tree and B plus Tree"
             }
           },
           {
-            "id": "449c1c9823f4dc34",
+            "id": "c2b4db12718c19df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is SQL.md",
+                "file": "why doesn't MySQL use them as index data structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is SQL"
+              "title": "why doesn't MySQL use them as index data structures"
             }
           },
           {
-            "id": "198a14665917a3ba",
+            "id": "33af11b2b90ca698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a relational database.md",
+                "file": "Summary of Index Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a relational database"
+              "title": "Summary of Index Types"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osi",
+                "query": "red black",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +144,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,9 +209,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "why doesn't MySQL use them as index data structures.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of why doesn't MySQL use them as index data structures"
             }
           }
         ],
@@ -240,51 +233,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ba97b481c67db8",
+  "active": "c2b4db12718c19df",
   "lastOpenFiles": [
-    "commonFramework/spring/Spring Framework.md",
-    "commonFramework/spring/Spring.md",
-    "Advantages of MySQL.md",
+    "Selection of underlying index data structure.md",
+    "MySQL Index.md",
+    "B-Tree and B plus Tree.md",
+    "Pasted image 20250116170723.png",
+    "Binary Search Tree (BST).md",
+    "Summary of Index Types.md",
+    "Primary key index.md",
+    "Red-Black Tree.md",
+    "Pasted image 20250116162317.png",
+    "AVL Tree.md",
+    "Pasted image 20250116153959.png",
+    "Pasted image 20250116153239.png",
+    "java/HashCode.md",
+    "why doesn't MySQL use them as index data structures.md",
+    "Pasted image 20250116113013.png",
+    "Hash Table.md",
+    "Pasted image 20250116110617.png",
+    "Pasted image 20250116110532.png",
+    "Pros and Cons of Indexes (Ưu, nhược điểm).md",
+    "Hash collision.md",
+    "Pasted image 20250116105410.png",
+    "Pasted image 20250116105253.png",
+    "MySQL.md",
+    "MySQL Storage Engine.md",
+    "MySQL storage engine architecture.md",
+    "How to choose between MyISAM and InnoDB.md",
+    "Difference between MyISAM and InnoDB.md",
+    "MySQL transaction isolation level.md",
+    "Phantom reads.md",
+    "Pasted image 20250115155542.png",
+    "Non-repeatable reads.md",
+    "Dirty reads.md",
+    "Update statement.md",
+    "MySQL Infrastructure.md",
+    "why we need two log modules.md",
+    "sampleJava/src/arrayList/ArrayListAndArray.java~",
     "sampleJava/out/production/sampleJava/arrayList/ArrayListAndArray.class",
     "sampleJava/out/production/sampleJava/arrayList",
-    "sampleJava/src/arrayList/ArrayListAndArray.java~",
-    "MySQL.md",
-    "What is MySQL.md",
-    "Relational database.md",
-    "What is SQL.md",
-    "What is a relational database.md",
-    "Pasted image 20250113145756.png",
-    "Database.md",
-    "Concurrency.md",
-    "database/Character Set.md",
-    "What is a character set.md",
-    "Thread.md",
-    "Java.md",
-    "Doubly linked list and bidirectional circular linked list.md",
-    "Pasted image 20250113114732.png",
-    "Pasted image 20250113114637.png",
-    "Pasted image 20250113114628.png",
-    "Difference between ArrayList and LinkedList.md",
-    "List.md",
-    "Why can't LinkedList implement the RandomAccess interface.md",
-    "Time complexity of inserting and deleting elements in LinkedList.md",
-    "Pasted image 20250113113612.png",
-    "Time complexity of inserting and deleting elements in ArrayList.md",
-    "Pasted image 20250113113513.png",
-    "Can ArrayList add null value.md",
-    "Collection Overview.md",
-    "Difference between Vector and Stack.md",
-    "Difference between ArrayList and Vector.md",
-    "Difference between ArrayList and Array.md",
     "sampleJava/src/arrayList/ArrayListAndArray.java",
     "sampleJava/src/arrayList/ArraylistAndArray.java~",
     "sampleJava/src/arrayList/ArraylistAndArray.java",
     "sampleJava/src/arrayList",
-    "The differences between List, Set, Queue and Map.md",
-    "Pasted image 20250109173011.png",
-    "resource/images/Pasted image 20250109105811.png",
-    "resource/images/Pasted image 20250109164208.png",
-    "resource/images/Pasted image 20250109163145.png",
     "computerBasic/network",
     "TCP",
     "computerBasic",
