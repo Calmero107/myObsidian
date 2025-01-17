@@ -1,5 +1,5 @@
 
-[[Hash table]]s store key-value pairs, and their characteristics are: **they can quickly retrieve the corresponding "value" according to the "key". This is where the hash code is used! (You can quickly find the required object)**
+[[Hash Table]]s store key-value pairs, and their characteristics are: **they can quickly retrieve the corresponding "value" according to the "key". This is where the hash code is used! (You can quickly find the required object)**
 
 - **Tăng hiệu suất khi làm việc với các Collection sử dụng Hashing**, như:
     - `HashMap`
