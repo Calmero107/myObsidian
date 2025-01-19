@@ -1,0 +1,10 @@
+
+HTTP/3.0 was previously based on the TCP protocol, but HTTP/3.0 will abandon TCP and use **the UDP-based QUIC protocol** instead .
+
+This change solves the head-of-line blocking problem in HTTP/2. Head-of-line blocking means that in HTTP/2.0, multiple HTTP requests and responses share a TCP connection. If one of the requests or responses is blocked due to network congestion or packet loss, then subsequent requests or responses cannot be sent, resulting in reduced efficiency of the entire connection. This is because HTTP/2.0 uses multiplexing on a single TCP connection. Affected by TCP congestion control, a small amount of packet loss may cause all streams on the entire TCP connection to be blocked. HTTP/3.0 solves the head-of-line blocking problem to a certain extent. One connection establishes multiple different data streams. These data streams are independent and do not affect each other. If a data stream loses packets, its data streams are not affected (essentially multiplexing + polling).
+
+In addition to solving the head-of-line blocking problem, HTTP/3.0 can also reduce the delay of the handshake process. In HTTP/2.0, if you want to establish a secure HTTPS connection, you need to go through the TCP three-way handshake and the TLS handshake:
+- TCP three-way handshake: The client and server exchange SYN and ACK packets to establish a TCP connection. This process requires 1.5 RTT (round-trip time), which is the time it takes for a data packet to be sent and received.
+- TLS handshake: The client and server exchange keys and certificates to establish a TLS encryption layer. This process requires at least 1 RTT (TLS 1.3) or 2 RTT (TLS 1.2).
+
+Therefore, HTTP/2.0 connection establishment requires at least 2.5 RTTs (TLS 1.3) or 3.5 RTTs (TLS 1.2). In HTTP/3.0, the QUIC protocol (TLS 1.3, TLS 1.3 supports not only 1 RTT handshakes but also 0 RTT handshakes) is used to establish a connection, which only requires 0-RTT or 1-RTT. This means that QUIC does not require any additional round-trip time to establish a new connection in the best case.

@@ -13,16 +13,9 @@ The following are common application scenarios for serialization (marshalling) a
 
 ![[Pasted image 20241224110117.png]]
 
-**To which layer of the TCP/IP 4-layer model does the serialization protocol correspond?**
-1. Application Layer
-2. Transport Layer
-3. Network Layer
-4. Network interface layer
+**To which layer of the [[TCP IP four-layer model]] does the serialization protocol correspond?**
 
-![[Pasted image 20241224111004.png]]
-![[Pasted image 20241224111035.png]]
-
-As shown in the figure above, in the OSI seven-layer protocol model, the presentation layer mainly processes the user data of the application layer and converts it into a binary stream. In other words, it converts the binary stream into the user data of the application layer. Doesn't this correspond to serialization and deserialization?
+In the [[OSI seven-layer model]] protocol model, the presentation layer mainly processes the user data of the application layer and converts it into a binary stream. In other words, it converts the binary stream into the user data of the application layer. Doesn't this correspond to serialization and deserialization?
 
 Because the application layer, presentation layer, and session layer in the OSI seven-layer protocol model all correspond to the application layer in the TCP/IP four-layer model, the serialization protocol is part of the TCP/IP protocol application layer.
 

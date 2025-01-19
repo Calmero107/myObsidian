@@ -1,0 +1,2 @@
+
+ARP protocol, full name **Address Resolution Protocol** , solves the conversion problem between network layer address and link layer address. Because an IP datagram always needs to know where the next hop (physical next destination) should go during physical transmission, but IP address belongs to logical address, while MAC address is physical address. ==ARP protocol solves some problems of IP address to MAC address conversion.==

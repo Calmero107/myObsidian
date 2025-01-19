@@ -1,0 +1,5 @@
+
+- **Port number** : The default for HTTP is 80, and the default for HTTPS is 443.
+- **URL prefix** : The URL prefix for HTTP is `http://`, and the URL prefix for HTTPS is `https://`.
+- **Security and resource consumption** : HTTP protocol runs on top of TCP, and all transmitted content is in plain text. Neither the client nor the server can verify the identity of the other party. HTTPS is the HTTP protocol running on top of SSL/TLS, which runs on top of TCP. All transmitted content is encrypted, and the encryption uses symmetric encryption, but the symmetric encryption key is asymmetrically encrypted using the server's certificate. Therefore, HTTP security is not as high as HTTPS, but HTTPS consumes more server resources than HTTP.
+- **SEO (Search Engine Optimization)** : Search engines usually prefer websites that use the HTTPS protocol because HTTPS can provide higher security and user privacy protection. Websites that use the HTTPS protocol may be displayed first in search results, which will have an impact on SEO.
